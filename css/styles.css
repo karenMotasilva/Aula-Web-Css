@@ -1,0 +1,38 @@
+li{
+    display: inline;
+    margin: 5%;
+    background-color: aqua;
+}
+.text-decoratiobe{
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+}
+#btn-style{
+    padding: 10px 20px 10px 20px;
+    background-color: green;
+    border: gray;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+#btn-style:hover{
+    transform: scale(1.1);
+    background-color: rgb(110, 223, 110);
+}
+#title:hover{
+    transform: scale(1.1) rotate(45);
+    background-color: rgb(123, 224, 224);
+}
+
+input > [type="password"]{
+    padding: 15px;
+    background-color: rgb(47, 247, 180);
+
+}
+div > .teste{
+    background-color: aquamarine;
+}
